@@ -1,0 +1,30 @@
+/*selector{
+	property: vlaue;
+}*/
+body{
+	background-image: url(https://cdn.harvesttotable.com/htt/2009/03/23173648/Lima-Bean-bigstock-Lima-Bean-Row-37982896-1.jpg);
+	background-size: cover;
+	text-align: center;
+}
+h1{
+	color: red;
+	text-align: center;
+	background: rgba(0, 255, 0, 0.5);
+	border-style: solid;
+	border-color: black;
+	cursor: crosshair;
+}
+p{
+	color: black;
+	text-align: center;
+
+}
+a{
+	text-align: center;
+}
+.webtext{
+	border: 5px dashed orange;
+}
+#div1 {
+background: rgba(0, 255, 0, 0.5)
+}
